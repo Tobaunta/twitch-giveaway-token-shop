@@ -40,7 +40,7 @@ export default function RootLayout() {
     const fetchUser = async () => {
       try {
         // Fetch user data from the API endpoint
-        const response = await fetch(`${api_url}/auth/api/user`, {
+        const response = await fetch(`${api_url}/auth/user`, {
           method: "GET",
           credentials: "include", // Include credentials for authentication
           headers: {
