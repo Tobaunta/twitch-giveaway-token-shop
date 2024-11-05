@@ -1,0 +1,22 @@
+# Server
+
+SESSION_SECRET="Secret Key For Sessions"
+
+# Crypto
+
+CRYPTO_PASSPHRASE="Secret Key For Generating Public and Private Keypair"
+CRYPTO_PUBLIC_KEY="Public Key Generated with Keygen.js"
+CRYPTO_PRIVATE_KEY="Private Key Generated with Keygen.js"
+
+# Client
+
+CLIENT_URL="Frontend URL"
+
+# Twitch
+
+TWITCH_CLIENT_ID="Client ID generated at https://dev.twitch.tv/console/apps/"
+TWITCH_CLIENT_SECRET="Client Secret generated at https://dev.twitch.tv/console/apps/"
+
+# MongoDB
+
+MONGODB_URI="Your MongoDB connection string"
