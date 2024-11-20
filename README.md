@@ -51,18 +51,18 @@ A simple Vite project using Typescript and MUI with components for all needed fu
 
 ![Giveaway Page (Logged Out)](/preview/giveaway-logged-out.png)
 
-#### Giveaway Page (Logged In without Tokens)
+#### Giveaway Page (Logged in without Tokens)
 
-![Giveaway Page (Logged In without Tokens)](/preview/giveaway-logged-in-without-tokens.png)
+![Giveaway Page (Logged in without Tokens)](/preview/giveaway-logged-in-without-tokens.png)
 
-#### Giveaway Page (Logged In with Tokens)
+#### Giveaway Page (Logged in with Tokens)
 
-![Giveaway Page (Logged In with Tokens)](/preview/giveaway-logged-in-with-tokens.png)
+![Giveaway Page (Logged in with Tokens)](/preview/giveaway-logged-in-with-tokens.png)
 
-#### Add Games Page
+#### Add Games Page (Logged in as Admin)
 
-![Add Game](/preview/add-game.png)
+![Add Game (Logged in as Admin)](/preview/add-game.png)
 
-#### Giveaway Tokens
+#### Giveaway Tokens (Logged in as Admin)
 
-![Giveaway Tokens](/preview/giveaway-token.png)
+![Giveaway Tokens (Logged in as Admin)](/preview/giveaway-token.png)
